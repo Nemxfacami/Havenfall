@@ -16,6 +16,9 @@
          word-spacing:5px;
         }
       main.background-images-holder{
+             width:100%;
+          margin:0 auto;
+          max-width:370px;
           position:relative;
           background:black
       }
